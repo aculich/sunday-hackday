@@ -1,5 +1,9 @@
 # Sunday hackday
 
+## 2016-09-10/11 @ Algorithm with Nate and John
+
+Raw [list of links](2016-09-10.md) from today.
+
 ## 2016-09-04 @ Algorithm with Yuvi, Nate, Anna, and Leif
 
 **Topics:** Kubernetes, JupyterHub, XSEDE Bridges, and more…
